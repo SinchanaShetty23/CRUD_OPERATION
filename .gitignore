@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
@@ -12,6 +13,9 @@ build/
 *.iws
 *.iml
 *.ipr
+=======
+### IntelliJ IDEA ###
+>>>>>>> upstream/main
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
